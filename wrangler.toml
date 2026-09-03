@@ -1,0 +1,7 @@
+name = "url-redirect"
+main = "src/index.js"
+compatibility_date = "2026-09-03"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "4ad21608d55d4645ad44e08e910945bd"
